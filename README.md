@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<h4>Este foi um dos projetos que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</h4>
+<h4>This was one of the projects I learned about in <a href="https://rodolfomori.com.br/devclub">DevClub</h4>
 
 <br>
 <br>
@@ -17,7 +17,7 @@
 ## :house: About the project
 
 <br>
-  Projeto desenvolvido para aprimorar as habilidades das tecnilogias abaixo; e responsividade.
+Project developed to improve skills in the technologies below; and responsiveness.
 <br>
 <br>
 
